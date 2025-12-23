@@ -11,3 +11,6 @@ Edit my first markdown
 ```python
 print("that cat is awesome")
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
